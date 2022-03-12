@@ -1,0 +1,56 @@
+/* css= cascading style sheet(folha de estilo em cascata)*/
+
+/*seletor{
+  propriedade:valor
+  cor: vermelho
+}=> regra css*/
+
+/*tipos de seletores
+1. seletor por elemento/tag 
+
+header {
+  background-color: blueviolet;
+}
+
+2. seletor por classe
+.secaoDetalhesConta{
+  background-color: blue}
+
+3. seletor por id
+  #exemploSelectorId{
+background-color: red
+color: pink
+font-family:menospace
+font-size: 20px}
+*/
+
+/* dimensionamento
+width: largura
+heigth: altura */
+
+/* posicionamento
+inline (elementos em linha) tag strong, a, span...
+block (elementos em block) tag p, h2, section...
+inline-block
+
+
+flexbox
+.exemploDivFlexbox{
+  background color: black
+  heigth: 50px
+  display: flex
+  flex-direction:column
+  justify-content:space-between
+  alin-items:flex-end}
+
+  .div1{
+    width:150px
+    heigth:150px
+    background-color: orange
+  }
+
+  .div2{
+    width:150px
+    heigth:150px
+    background-color: skyblue}
+*/
